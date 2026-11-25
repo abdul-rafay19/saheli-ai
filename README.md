@@ -11,9 +11,9 @@
 Saheli helps her understand the offer, keeps a tamper-evident record of what she agreed to, and later checks whether the payment
 she received matches it. She stays in control: nothing is saved or sent without her approval.
 
-<!-- Add a screenshot or GIF here before submitting:  ![Saheli AI](docs/screenshot.png) -->
+![Saheli AI](docs/screenshot.png)
 
-<!-- Live demo: deploy on share.streamlit.io and put the link here, e.g. **Live demo:** https://YOUR-APP.streamlit.app -->
+**Live demo:** https://saheli-ai.streamlit.app
 
 ---
 
